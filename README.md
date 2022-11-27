@@ -1,2 +1,1 @@
-# leetcodeCode
-cpp
+# Some code written in C++
