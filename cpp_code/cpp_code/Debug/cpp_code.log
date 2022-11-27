@@ -1,0 +1,231 @@
+﻿  1005 K 次取反后最大化的数组和.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\1005 K 次取反后最大化的数组和.cpp(18,27): warning C4018: “<”: 有符号/无符号不匹配
+  101 对称二叉树.cpp
+  102 二叉树的层序遍历.cpp
+  1047删除字符串中的所有相邻重复项.cpp
+  104二叉树的最大深度.cpp
+  106 从中序与后序遍历序列构造二叉树.cpp
+  107二叉树的层次遍历 II.cpp
+  108 将有序数组转换为二叉搜索树.cpp
+  110 平衡二叉树.cpp
+  111二叉树的最小深度.cpp
+  112 路径总和.cpp
+  116填充每个节点的下一个右侧节点指针.cpp
+  117填充每个节点的下一个右侧节点指针II.cpp
+  122 买卖股票的最佳时机 II.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\122 买卖股票的最佳时机 II.cpp(14,27): warning C4018: “<”: 有符号/无符号不匹配
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\122 买卖股票的最佳时机 II.cpp(16,23): error C3861: “max”: 找不到标识符
+  131分割回文串.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(29,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(29,31): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(42,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(42,32): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(31,16): error C2065: “start”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(31,27): error C2065: “end”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(33,8): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(33,16): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(45,7): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(45,21): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,16): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,32): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,40): error C2146: 语法错误: 缺少“;”(在标识符“；”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,40): error C2065: “；”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,44): error C2146: 语法错误: 缺少“)”(在标识符“i”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(51,1): error C2059: 语法错误:“)”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(53,4): error C2059: 语法错误:“if”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(54,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(56,23): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(56,32): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(56,44): error C2065: “i”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(56,48): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(59,1): error C2181: 没有匹配 if 的非法 else
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(64,17): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(64,20): error C2065: “i”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(62,5): error C2044: 非法 continue
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(67,2): error C2059: 语法错误:“}”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(67,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(71,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\131分割回文串.cpp(71,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  134 加油站.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\134 加油站.cpp(14,21): warning C4018: “<”: 有符号/无符号不匹配
+  142环形链表Ⅱ.cpp
+  144 二叉树的前序遍历(迭代).cpp
+  144 二叉树的前序遍历(递归).cpp
+  145 二叉树的后序遍历(迭代).cpp
+  正在生成代码...
+  正在编译...
+  145 二叉树的后序遍历(递归).cpp
+  150 逆波兰表达式求值.cpp
+  151翻转字符串理的单词.cpp
+  15三数之和.cpp
+  17电话号码的字母组合.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(44,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(44,32): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(65,46): error C2061: 语法错误: 标识符“string”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(47,7): error C2065: “index”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(47,16): error C2065: “digits”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(49,4): error C2065: “result”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(54,15): error C2065: “digits”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(54,22): error C2065: “index”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(56,21): warning C4018: “<”: 有符号/无符号不匹配
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(59,17): error C2065: “digits”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(59,25): error C2065: “index”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(67,16): error C2065: “digits”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\17电话号码的字母组合.cpp(68,10): error C2065: “result”: 未声明的标识符
+  18四数之和.cpp
+  199 二叉树的右视图.cpp
+  19删除链表的倒数第N个节点.cpp
+  1两数之和.cpp
+  203移除链表元素.cpp
+  204快乐数.cpp
+  206反转链表.cpp
+  209长度最小的子数组.cpp
+  20有效的括号.cpp
+  216组合总和III.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\216组合总和III.cpp(48,30): warning C4018: “<=”: 有符号/无符号不匹配
+  222 完全二叉树的节点个数.cpp
+  225 用队列实现栈.cpp
+  226翻转二叉树.cpp
+  232 用栈实现队列.cpp
+  235 二叉搜索树的最近公共祖先.cpp
+  正在生成代码...
+  正在编译...
+  236 二叉树的最近公共祖先.cpp
+  239滑动窗口最大值.cpp
+  242有效的字母异位词.cpp
+  24两两交换链表中的节点.cpp
+  257 二叉树的所有路径.cpp
+  27移除元素.cpp
+  28 实现 strStr().cpp
+  344反转字符串.cpp
+  347前K个高频元素.cpp
+  349两个数组的交集.cpp
+  376 摆动序列.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\376 摆动序列.cpp(19,27): warning C4018: “<”: 有符号/无符号不匹配
+  383赎金信.cpp
+  39 组合总和.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(56,47): error C2061: 语法错误: 标识符“vector”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(45,30): warning C4018: “<”: 有符号/无符号不匹配
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(59,13): error C2065: “candidates”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(59,33): error C2065: “candidates”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(59,8): error C2672: “std::sort”: 未找到匹配的重载函数
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(59,1): error C2780: “void std::sort(const _RanIt,const _RanIt)”: 应输入 2 个参数，却提供了 1 个
+I:\VS_2019\vs 2019\installation\VC\Tools\MSVC\14.29.30037\include\algorithm(7403): message : 参见“std::sort”的声明
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(59,1): error C2780: “void std::sort(const _RanIt,const _RanIt,_Pr)”: 应输入 3 个参数，却提供了 1 个
+I:\VS_2019\vs 2019\installation\VC\Tools\MSVC\14.29.30037\include\algorithm(7395): message : 参见“std::sort”的声明
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(60,16): error C2065: “candidates”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\39 组合总和.cpp(60,28): error C2065: “target”: 未声明的标识符
+  404 左叶子之和.cpp
+  40组合总和II.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\40组合总和II.cpp(45,30): warning C4018: “<”: 有符号/无符号不匹配
+  429N叉树的层序遍历.cpp
+  45 跳跃游戏 II.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\45 跳跃游戏 II.cpp(20,27): warning C4018: “<”: 有符号/无符号不匹配
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\45 跳跃游戏 II.cpp(22,27): error C3861: “max”: 找不到标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\45 跳跃游戏 II.cpp(29,37): warning C4018: “>=”: 有符号/无符号不匹配
+  450 删除二叉搜索树中的节点.cpp
+  454四数相加II.cpp
+  455 分发饼干.cpp
+  正在生成代码...
+  正在编译...
+  459重复的字符串.cpp
+  46全排列.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\46全排列.cpp(23): fatal error C1075: “{”: 未找到匹配令牌
+  47全排列 II.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\47全排列 II.cpp(23): fatal error C1075: “{”: 未找到匹配令牌
+  491 递增子序列.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\491 递增子序列.cpp(23): fatal error C1075: “{”: 未找到匹配令牌
+  501 二叉搜索树中的众数.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(37,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(37,28): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(43,8): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(43,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(45,2): error C2334: “{”的前面有意外标记；跳过明显的函数体
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(39,10): error C2065: “a”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\501 二叉搜索树中的众数.cpp(39,21): error C2065: “b”: 未声明的标识符
+  513 找树左下角的值.cpp
+  515在每个树行中找最大值.cpp
+  53 最大子数组和.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\53 最大子数组和.cpp(14,27): warning C4018: “<”: 有符号/无符号不匹配
+  530二叉搜索树的最小绝对差.cpp
+  538 把二叉搜索树转换为累加树.cpp
+  541反转字符串Ⅱ.cpp
+  55 跳跃游戏.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\55 跳跃游戏.cpp(20,21): error C3861: “max”: 找不到标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\55 跳跃游戏.cpp(21,23): warning C4018: “>=”: 有符号/无符号不匹配
+  59螺旋矩阵II.cpp
+  617 合并二叉树.cpp
+  637二叉树的层平均值.cpp
+  654 最大二叉树.cpp
+  669 修剪二叉搜索树.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\669 修剪二叉搜索树.cpp(100,1): error C2628: “Solution1”后面接“int”是非法的(是否忘记了“;”?)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\669 修剪二叉搜索树.cpp(101,1): error C3874: “main”的返回类型应为“int”而非“Solution1”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\669 修剪二叉搜索树.cpp(104,10): error C2440: “return”: 无法从“int”转换为“Solution1”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\669 修剪二叉搜索树.cpp(104,10): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+  700 二叉搜索树中的搜索.cpp
+  701 二叉搜索树中的插入操作.cpp
+  704二分查找.cpp
+  正在生成代码...
+  正在编译...
+  707设计链表.cpp
+  77 组合.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\77 组合.cpp(38,30): warning C4018: “<=”: 有符号/无符号不匹配
+  78子集.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\78子集.cpp(23): fatal error C1075: “{”: 未找到匹配令牌
+  90子集II.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\90子集II.cpp(23): fatal error C1075: “{”: 未找到匹配令牌
+  93 复原 IP 地址.cpp
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(32,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(32,27): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(59,20): error C2061: 语法错误: 标识符“string”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(93,46): error C2061: 语法错误: 标识符“string”
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(34,7): error C2065: “start”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(34,15): error C2065: “end”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(38,7): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(38,9): error C2065: “start”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(38,26): error C2065: “start”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(38,35): error C2065: “end”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(43,16): error C2065: “start”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(43,28): error C2065: “end”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(45,8): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(45,22): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(49,22): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(64,7): error C2065: “pointNum”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(66,16): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(66,19): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(66,31): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(68,22): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(74,16): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(74,32): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(76,16): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(76,19): error C2065: “startIndex”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(78,5): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(78,14): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(79,5): error C2065: “pointNum”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(80,18): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(80,28): error C2065: “pointNum”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(81,5): error C2065: “pointNum”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(82,5): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(82,13): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(95,7): error C2065: “s”: 未声明的标识符
+G:\COME\Leetcode\code_cpp\leetcodeCode\cpp_code\cpp_code\93 复原 IP 地址.cpp(99,16): error C2065: “s”: 未声明的标识符
+  94 二叉树的中序遍历(迭代).cpp
+  94二叉树的中序遍历(递归).cpp
+  977有序数组的平方.cpp
+  98 验证二叉搜索树.cpp
+  draft.cpp
+  剑指 Offer 03 数组中重复的数字.cpp
+  剑指 Offer 04 二维数组中的查找.cpp
+  剑指 Offer 05 替换空格.cpp
+  剑指 Offer 06 从尾到头打印链表.cpp
+  剑指 Offer 09 用两个栈实现队列.cpp
+  剑指 Offer 10- II 青蛙跳台阶问题.cpp
+  剑指 Offer 11 旋转数组的最小数字.cpp
+  剑指 Offer 18 删除链表的节点.cpp
+  剑指Offer58-II左旋转字符串.cpp
+  定义二叉树.cpp
+  正在生成代码...
+  正在编译...
+  定义链表.cpp
+  面试题0207链表相交.cpp
+  正在生成代码...
