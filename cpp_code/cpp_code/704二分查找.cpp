@@ -19,11 +19,11 @@ public:
             int mid = (right - left) / 2 + left;  //请注意我们是用中值进行的对比
             if (target < nums[mid])
             {
-                right = mid; //由于选择的是左闭右开，所以接下来是[left, mid)
+                right = mid; //由于选择的是左闭右开，所以接下来是[left, mid)  ,mid已经做过比较了
             }
             else if (target > nums[mid])
             {
-                left = mid + 1; //接下来是[mid + 1, right)
+                left = mid + 1; //接下来是[mid + 1, right)，mid已经做过比较了
             }
             else
             {
