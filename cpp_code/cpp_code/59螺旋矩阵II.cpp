@@ -12,7 +12,7 @@ public:
 		int startx = 0, starty = 0; //每循环一圈的起始位置
 		int loop = n / 2;  //需要循环的圈的次数
 		int mid = n / 2;  //当n为奇数时，中间那个需要单独处理的元素
-		int count = 1;  //用于赋值填空
+		int count = 1;  //用于赋值填空hh
 		int offset = 1;
 		int i, j;
 		while (loop--)
